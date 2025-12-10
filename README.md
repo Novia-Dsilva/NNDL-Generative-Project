@@ -24,6 +24,8 @@
 
 This project implements a comprehensive text-to-image generation pipeline using **Stable Diffusion v1.5** and **CLIP** (Contrastive Language-Image Pre-training). We conduct systematic experiments to understand the impact of various hyperparameters on generation quality, providing evidence-based recommendations for practitioners.
 
+## Drive Link for results - https://drive.google.com/drive/folders/1Aja7IT0uFa-BSBUpUNr0WieIo0baUaKj?usp=sharing
+
 ### Research Goals
 - Systematically evaluate **7 classifier-free guidance (CFG) scales** across diverse prompts
 - Compare **4 widely-adopted noise schedulers** under controlled conditions
