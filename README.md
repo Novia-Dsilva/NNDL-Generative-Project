@@ -315,11 +315,7 @@ Consider EU AI Act requirements for high-risk applications including conformity 
 ## Acknowledgments
 
 We thank:
-- **Professor Xuemin Jin** and the teaching staff of **IE 7615 Deep Learning for AI** at Northeastern University for guidance and support
-- **Stability AI** for Stable Diffusion
-- **OpenAI** for CLIP
-- **Microsoft** for COCO dataset
-- **Hugging Face** for model hosting and diffusers library
+- **Professor Xuemin Jin** at Northeastern University for guidance and support
 
 ## References
 
